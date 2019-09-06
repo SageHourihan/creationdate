@@ -1,0 +1,3 @@
+[console_scripts]
+creation-date = creationdate.command_line:main
+
